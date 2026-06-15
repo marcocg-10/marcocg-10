@@ -8,7 +8,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 
 - 🎓 Expected graduation: 2027
 - 📍 San José, Costa Rica
-- 🌎 English: C1 Level (TOEIC)
+- 🌎 English: C1 Level
 - 💡 Interests: Full-Stack Development, Databases, Infrastructure, Cybersecurity, and Distributed Systems
 
 ---
