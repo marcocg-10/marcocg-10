@@ -64,17 +64,3 @@ Passionate about software development, database systems, cybersecurity, and IT i
   <img src="https://img.shields.io/badge/Agile-28A745?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Git%20Workflow-F05032?style=for-the-badge" />
 </p>
-
----
-
-### Featured Project
-
-#### University Management Platform
-
-Full-stack university administration platform developed using **Blazor**, **C#**, **SQL Server**, **Unity**, **Git**, and **Scrum** methodologies.
-
-**Key Features**
-- Administrative process management.
-- Relational database integration with SQL Server.
-- Unity-based virtual environment connected to real system data.
-- Agile development using Scrum and collaborative workflows.
