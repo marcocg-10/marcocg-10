@@ -24,7 +24,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 ### Frameworks & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,html,css,js,unity,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,js,unity,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="48" height="48"/>
 </p>
 
@@ -34,9 +34,8 @@ Passionate about software development, database systems, cybersecurity, and IT i
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="SQL Server" width="48" height="48"/>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+  <img src="https://skillicons.dev/icons?i=postgres" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/influxdb/influxdb-original.svg" alt="InfluxDB" width="48" height="48"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/cockroachlabs.svg" alt="CockroachDB" width="48" height="48"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@16.23.0/icons/timescale.svg" alt="TimescaleDB" width="48" height="48"/>
 </p>
 
@@ -45,8 +44,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 ### Infrastructure & DevOps
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github,grafana" />
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/truenas.svg" alt="TrueNAS" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,bash,git,github" />
 </p>
 
 ---
@@ -54,8 +52,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 ### Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,md" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dbeaver/dbeaver-original.svg" alt="DBeaver" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,md,latex" />
 </p>
 
 ---
