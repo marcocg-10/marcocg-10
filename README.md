@@ -16,7 +16,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,python,c,cpp" />
+  <img src="https://skillicons.dev/icons?i=cs,python,c,cpp" />
 </p>
 
 ---
@@ -24,7 +24,7 @@ Passionate about software development, database systems, cybersecurity, and IT i
 ### Frameworks & Web Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,js,unity,figma" />
+  <img src="https://skillicons.dev/icons?i=dotnet,unity,figma" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" alt="Blazor" width="48" height="48"/>
 </p>
 
